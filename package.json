@@ -1,0 +1,27 @@
+{
+    "name": "opanai-api",
+    "version": "1.0.0",
+    "description": "OpenAI API Integration Project",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "keywords": [],
+    "author": "Coi-lab-prog",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^13.0.0",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0",
+        "jsonwebtoken": "^9.0.0",
+        "@prisma/client": "^4.0.0",
+        "bcrypt": "^5.1.0",
+        "openai": "^4.0.0"
+    },
+    "devDependencies": {
+        "prisma": "^4.0.0"
+    }
+}
