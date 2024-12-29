@@ -1,5 +1,5 @@
 {
-    "name": "opanai_api",
+    "name": "opanaiapi",
     "version": "1.0.0",
     "description": "OpenAI API Integration Project",
     "main": "index.js",
